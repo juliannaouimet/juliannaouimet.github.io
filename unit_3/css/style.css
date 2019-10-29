@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background: url("file:///Users/jouimet/Desktop/GA%20Code%20Class/juliannaouimet.github.io/unit_3/images/cookie_homepage_1.jpg");
+  background-size: cover;
+  color: #000;
+  font-family: Helvetica;
+}
+h1 {
+  width: 200px;
+  font-size: 35px; 
+}
+h3 {
+  
+  font-size: 20px; 
+  text-align: center;
+}
+p {
+  font-size: 15px;
+}
